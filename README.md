@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan55254&layout=compact&theme=radical" alt="Most Used Languages" height="170"/>
+  
 </div>
 
 <div align="center">
