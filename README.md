@@ -1,9 +1,11 @@
+---
+
 ### 🚀 **Aryan Mishra | Full-Stack Developer**
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=700&lines=Building+AI-powered+Apps+%7C+Full-Stack+Developer+%7C+5+Projects%2FMonth+Challenge+🔥)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmishra&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan5524&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -11,7 +13,7 @@
 ## 🚀 **About Me**
 - 🔥 Passionate **Full-Stack Developer** building scalable apps  
 - 🎯 **5 Full-Stack Projects Per Month (March 2025 - Ongoing)**  
-- 💡 **Exploring AI-powered productivity tools & backend scalability**  
+- 💡 **Exploring Generative AI, Full-Stack Development & Backend Scalability**  
 
 ---
 
@@ -49,7 +51,11 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanmishra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan5524&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan5524&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
