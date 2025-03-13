@@ -80,10 +80,7 @@ const aryan = {
 
 ---
 
-## 📢 **Coming Soon**
-I'm committed to **building & releasing 5 new projects each month** showcasing both **full-stack development** and **C programming**. Stay tuned for updates!  
 
----
 
 ## 🌐 **Connect With Me**  
 
