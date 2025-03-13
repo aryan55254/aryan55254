@@ -1,96 +1,109 @@
-# 🚀 **Aryan Mishra | Full-Stack Developer**
+# <div align="center">👨‍💻 Aryan Mishra</div>
+
+<div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=700&lines=Building+AI-powered+Apps+%7C+Full-Stack+Developer+%7C+5+Projects%2FMonth+Challenge+🔥)
+  ![Full Stack Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C+Programming+Enthusiast;Building+5+Projects+Per+Month)
+  
+  <img src="https://komarev.com/ghpvc/?username=aryan55254&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan55254&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## <div align="center">🚀 Full Stack Developer | Low Level Programming Enthusiast</div>
 
----
-
-## 🚀 **About Me**
-- 🔥 Passionate **Full-Stack Developer** building scalable apps  
-- 🎯 **5 Full-Stack Projects Per Month (March 2025 - Ongoing)**  
-- 💡 **Exploring Generative AI, Full-Stack Development & Backend Scalability**  
-
----
-
-## 🛠 **Tech Stack**
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
 
 ---
 
-## 🚀 **5 Full-Stack Projects Per Month**
+### 💫 About Me
 
-📌 *Updated Monthly | ✅ Completed | 🚀 In Progress*  
+I'm a passionate full stack developer with a deep interest in C and low-level programming. When I'm not building web applications, you'll find me diving into memory management, pointers, and system programming concepts.
 
-| # | Project Name | Live Demo | GitHub Repo |
-|---|-------------|-----------|-------------|
-| 1️⃣ | AI-Powered Task Manager | [View Demo](https://github.com/aryan55254) | [View Code](https://github.com/aryan55254) |
-| 2️⃣ | Real-time Chat Application | [View Demo](https://github.com/aryan55254) | [View Code](https://github.com/aryan55254) |
-| 3️⃣ | E-commerce Platform | *Coming Soon* | *Coming Soon* |
-| 4️⃣ | Portfolio Website Generator | *Coming Soon* | *Coming Soon* |
-| 5️⃣ | Personal Finance Tracker | *Coming Soon* | *Coming Soon* |
-
-👉 *Next Update: **April 2025 Projects** Coming Soon!*
+- 🔭 Currently building **5 projects per month**
+- 🌱 Exploring the depths of **C programming** and **systems architecture**
+- ⚙️ Balancing high-level web development with low-level programming
+- 💡 Committed to clean code and efficient algorithms
 
 ---
 
-## 📊 **GitHub Stats**
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan55254&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan55254&layout=compact&theme=radical" alt="Most Used Languages" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan55254&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan55254&theme=radical" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 📫 **Let's Connect**
+### 🛠️ Tech Stack
 
-<p align="center">
+```javascript
+const aryan = {
+  languages: ["JavaScript", "C"],
+  frontend: ["HTML", "CSS", "React"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB"],
+  tools: ["Postman", "Git", "GitHub"],
+  currentFocus: "Building robust web apps while exploring low-level programming",
+  challenge: "Completing 5 quality projects every month"
+};
+```
+
+---
+
+### 🔍 Coming Soon
+
+<div align="center">
+
+  ![Projects Loading](https://progress-bar.dev/20/?title=Projects%20In%20Progress&width=500&color=54aeff)
+  
+</div>
+
+I'm committed to building and releasing 5 new projects each month that demonstrate both my full stack capabilities and my passion for C programming. Watch this space!
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/aryan-mishra-404987314/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Slackzilla_">
-    <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/aryan55254">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">🚀 <b>Let's build something awesome together!</b> 🔥</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan55254&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  
+  ### 📝 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/aryan55254/aryan55254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
