@@ -64,13 +64,7 @@ const aryan = {
 
 ### 🔍 Coming Soon
 
-<div align="center">
-
-  ![Projects Loading](https://progress-bar.dev/20/?title=Projects%20In%20Progress&width=500&color=54aeff)
-  
-</div>
-
-I'm committed to building and releasing 5 new projects each month that demonstrate both my full stack capabilities and my passion for C programming. Watch this space!
+I'm committed to building and releasing 5 new projects each month that demonstrate both my full stack capabilities and my passion for C programming. Watch this space for updates on my latest work!
 
 ---
 
@@ -89,21 +83,3 @@ I'm committed to building and releasing 5 new projects each month that demonstra
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-  ### 📝 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/aryan55254/aryan55254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
