@@ -1,7 +1,3 @@
-Here's your **final** GitHub profile README with the **internship goal removed** and **correct LinkedIn & X (Twitter) links** added! 🚀  
-
----
-
 ### 🚀 **Aryan Mishra | Full-Stack Developer**
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=700&lines=Building+AI-powered+Apps+%7C+Full-Stack+Developer+%7C+5+Projects%2FMonth+Challenge+🔥)
