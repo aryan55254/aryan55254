@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&width=450&lines=Hey!+I'm+Aryan+Mishra;Full-Stack+Developer+|+C+Enthusiast;Building+3+Projects+Per+Month!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&width=500&lines=Hey!+I'm+Aryan+Mishra;Full-Stack+Developer+|+C+Enthusiast;Building+Cool+Stuff!">
 </h1>
 
 <p align="center">
@@ -14,35 +14,33 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 - 🔥 Full-Stack Developer  
-- ⚡ Building **3 Projects Per Month**  
+- ⚡ **Building 3 Projects Per Month**  
 - 💻 Passionate about **C & System Programming**  
 - 🎯 Focused on **MERN, Backend, and Low-Level Programming**  
 - 🌍 **Portfolio:** [aryanmishra.site](https://aryanmishra.site)  
 
 ---
 
-## 📌 Monthly Projects  
+## 📌 Monthly Progress  
 
-<table>
+<table align="center">
   <tr>
     <th>Month</th>
-    <th>Project 1</th>
-    <th>Project 2</th>
-    <th>Project 3</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>March</td>
-    <td><a href="#">🔗 URL Shortener</a></td>
-    <td><a href="#">📊 Web Scraper</a></td>
-    <td><a href="#">⚡ AI Productivity App</a></td>
+    <td>⚡ In Progress</td>
   </tr>
   <tr>
     <td>April</td>
-    <td><a href="#">🛒 E-commerce Platform</a></td>
-    <td><a href="#">💳 Payment Integration</a></td>
-    <td><a href="#">🔐 JWT Auth System</a></td>
+    <td>📌 Upcoming</td>
+  </tr>
+  <tr>
+    <td>May</td>
+    <td>📌 Upcoming</td>
   </tr>
 </table>
 
@@ -51,7 +49,12 @@
 ## ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan55254&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan55254&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
 
 ---
