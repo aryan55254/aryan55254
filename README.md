@@ -1,67 +1,84 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&width=500&lines=Hey!+I'm+Aryan+Mishra;Full-Stack+Developer+|+C+Enthusiast;Building+Cool+Stuff!">
-</h1>
+# <div align="center">👨‍💻 Aryan Mishra</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Low-Level+Programming+Enthusiast;Building+3+Projects+Per+Month;Exploring+Generative+AI+%26+Systems+Programming)
+  
+  <img src="https://komarev.com/ghpvc/?username=aryan55254&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 ---
 
-## 🚀 About Me  
-- 🔥 Full-Stack Developer  
-- ⚡ **Building 3 Projects Per Month**  
-- 💻 Passionate about **C & System Programming**  
-- 🎯 Focused on **MERN, Backend, and Low-Level Programming**  
-- 🌍 **Portfolio:** [aryanmishra.site](https://aryanmishra.site)  
+## 🚀 **Full Stack Developer | Systems Programming Enthusiast**
+
+### 💡 About Me  
+- 🔥 **Full Stack Developer** with a passion for **scalable web apps & low-level programming**  
+- 🎯 **3 Full-Stack Projects Per Month Challenge (March 2025 - Ongoing)**  
+- ⚡ **Exploring Generative AI, Web Development & System-Level Programming**  
+- 💡 **Balancing high-level web development with low-level C programming**  
 
 ---
 
-## 📌 Monthly Progress  
+## 🛠️ **Tech Stack**  
 
-<table align="center">
-  <tr>
-    <th>Month</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>March</td>
-    <td>⚡ In Progress</td>
-  </tr>
-  <tr>
-    <td>April</td>
-    <td>📌 Upcoming</td>
-  </tr>
-  <tr>
-    <td>May</td>
-    <td>📌 Upcoming</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,git,postman" />
+</div>
 
 ---
 
-## ⚡ GitHub Stats  
+## 🔥 **3 Full-Stack Projects Per Month**
+📌 *Updated Monthly | ✅ Completed | 🚀 In Progress*  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan55254&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+| # | Project Name | Live Demo | GitHub Repo |
+|---|-------------|-----------|-------------|
+| 1️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
+| 2️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
+| 3️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan55254&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
-</p>
+👉 *Next Update: **April 2025 Projects** Coming Soon!*
 
 ---
 
-## 🚀 Let's Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-mishra-404987314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aryan55254"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/Slackzilla_"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan55254&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan55254&theme=dracula" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🛠️ **Tech Stack in Code**
+```javascript
+const aryan = {
+  languages: ["JavaScript", "C"],
+  frontend: ["HTML", "CSS", "React"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB"],
+  tools: ["Postman", "Git", "GitHub"],
+  currentFocus: "Building robust web apps while exploring system-level programming",
+  challenge: "Completing 3 quality projects every month"
+};
+```
+
+---
+
+## 🌐 **Connect With Me**  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aryan-mishra-404987314/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Slackzilla_">
+    <img src="https://img.shields.io/badge/X-%2312100E?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aryan55254">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
