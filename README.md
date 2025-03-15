@@ -4,8 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/aryan55254">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=I'm+a+Full-stack+Developer;Low-Level+Programming+Enthusiast;Building+3+Projects+Per+Month;Exploring+Generative+AI" align="center" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Low-Level+Programming+Enthusiast;Building+3+Projects+Per+Month;Exploring+Generative+AI" align="center" /></a>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</div>
 
 <table width="120" align="center">
   <tr>  
@@ -33,35 +37,39 @@
 - My portfolio website 💼
 - AI-powered productivity app 🚀
 - Full-stack project with payment integration 💳
+- A next-gen assignment manager for colleges 📔
 
 ### 🌱 2025 Goals
-- Build 30+ high-quality projects 🛠️
-- Master system-level programming with C/C++ ⚙️
+- Complete #100DaysOfCode challenge 💯
+- Build 30+ projects 🛠️
 - Contribute to Open Source 🌐
-- Land a great internship 🏆
+- Get Placed 🏆
 
 ### 💬 Ask Me About
 - Full-Stack Development 🌎
 - System-Level Programming 🖥️
 - Backend Performance Optimization 🚀
+- Designing 🎨
+- Anything else... ❓
 
 ### ⚡ Fun Fact 
 - My GitHub code is: 50% Me + 10% StackOverflow + 10% Google + 25% ChatGPT + 5% YouTube 📺
+- I turn caffeine into code ☕💻
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,git,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,git,postman,linux,figma" />
 </div>
 
 ### 🔥 3 Full-Stack Projects Per Month
+📌 *Updated Monthly | ✅ Completed | 🚀 In Progress*  
 | # | Project Name | Live Demo | GitHub Repo |
 |---|-------------|-----------|-------------|
 | 1️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
 | 2️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
 | 3️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
-
 👉 *Next Update: **April 2025 Projects** Coming Soon!*
 
 ### 📊 GitHub Stats
@@ -72,19 +80,6 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan55254&theme=dracula" alt="GitHub Activity Graph"/>
 </div>
-
-### 🛠️ Tech Stack in Code
-```javascript
-const aryan = {
-  languages: ["JavaScript", "C", "C++"],
-  frontend: ["HTML", "CSS", "React", "Next.js"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB"],
-  tools: ["Postman", "Git", "Linux"],
-  currentFocus: "Building robust web apps while exploring system-level programming",
-  challenge: "Completing 3 quality projects every month"
-};
-```
 
 ### 🌐 Connect With Me  
 <div align="center">
