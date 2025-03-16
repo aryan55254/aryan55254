@@ -2,27 +2,27 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Low-Level+Programming+Enthusiast;Building+3+Projects+Per+Month;Exploring+Generative+AI+%26+Systems+Programming)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+3+Projects+Per+Month;Exploring+Generative+AI+%26+Web+Development)
   
   <img src="https://komarev.com/ghpvc/?username=aryan55254&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 ---
 
-## 🚀 **Full Stack Developer | Systems Programming Enthusiast**
+## 🚀 **Full Stack Developer**
 
 ### 💡 About Me  
-- 🔥 **Full Stack Developer** with a passion for **scalable web apps & low-level programming**  
+- 🔥 **Full Stack Developer** with a passion for **scalable web apps**  
 - 🎯 **3 Full-Stack Projects Per Month Challenge (March 2025 - Ongoing)**  
-- ⚡ **Exploring Generative AI, Web Development & System-Level Programming**  
-- 💡 **Balancing high-level web development with low-level C programming**  
+- ⚡ **Exploring Generative AI & Web Development**  
+- 💡 **Balancing frontend and backend development**  
 
 ---
 
 ## 🛠️ **Tech Stack**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,postman" />
 </div>
 
 ---
@@ -55,12 +55,12 @@
 ## 🛠️ **Tech Stack in Code**
 ```javascript
 const aryan = {
-  languages: ["JavaScript", "C"],
+  languages: ["JavaScript"],
   frontend: ["HTML", "CSS", "React"],
   backend: ["Node.js", "Express"],
   database: ["MongoDB"],
   tools: ["Postman", "Git", "GitHub"],
-  currentFocus: "Building robust web apps while exploring system-level programming",
+  currentFocus: "Building robust web apps",
   challenge: "Completing 3 quality projects every month"
 };
 ```
@@ -82,3 +82,4 @@ const aryan = {
 </div>
 
 ---
+
