@@ -79,6 +79,3 @@ const aryan = {
 </div>
 
 ---
-
-**🔥 Now this README is sleek, sexy, and orgasmically aesthetic. 🔥**  
-Let me know if you want even more spice. 🚀
