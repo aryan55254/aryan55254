@@ -33,7 +33,7 @@
 |----|---------------|-------------|--------------|
 | 1️⃣ | **ScrapeSift** 🕵️‍♂️ | [🌐 Live](https://scrapesift.aryanmishra.site/) | [📂 GitHub](https://github.com/aryan55254/scrapesift) |
 | 2️⃣ | **TaskLock** | _TBA_ |  [📂 GitHub](https://github.com/aryan55254/Task_Lock) |
-| 3️⃣ | **ByteNews** | _TBA_ |  [📂 GitHub](https://github.com/aryan55254/ByteNews)|
+| 3️⃣ | **_TBA_** | _TBA_ |_TBA_|
 
 👉 *Next Update: **April 2025 Projects** Coming Soon!*
 
