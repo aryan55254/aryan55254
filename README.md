@@ -32,8 +32,8 @@
 | 🔢 | 🚀 Project Name | 🌍 Live Demo | 📂 GitHub Repo |
 |----|---------------|-------------|--------------|
 | 1️⃣ | **ScrapeSift** 🕵️‍♂️ | [🌐 Live](https://scrapesift.aryanmishra.site/) | [📂 GitHub](https://github.com/aryan55254/scrapesift) |
-| 2️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
-| 3️⃣ | _Coming Soon_ | _TBA_ | _TBA_ |
+| 2️⃣ | **TaskLock** | _TBA_ |  [📂 GitHub](https://github.com/aryan55254/Task_Lock) |
+| 3️⃣ | **ByteNews** | _TBA_ |  [📂 GitHub](https://github.com/aryan55254/ByteNews)|
 
 👉 *Next Update: **April 2025 Projects** Coming Soon!*
 
