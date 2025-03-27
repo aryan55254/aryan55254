@@ -70,9 +70,6 @@ const aryan = {
   <a href="https://www.linkedin.com/in/aryan-mishra-404987314/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/Slackzilla_">
-    <img src="https://img.shields.io/badge/X-%2312100E?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
   <a href="https://github.com/aryan55254">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
