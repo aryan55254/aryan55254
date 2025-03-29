@@ -1,19 +1,19 @@
 ---
 
-# <div align="center">🚀 **Aryan Mishra** 🚀</div>
+# <div align="center"> 👨‍💻**Aryan Mishra**👨‍💻 </div>
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+3+Projects+Per+Month;Exploring+Generative+AI+%26+Web+Development)
   
-  <img src="https://komarev.com/ghpvc/?username=aryan55254&style=flat-square&color=00C9FF" alt="Profile views"/>
 </div>
 
+---
 ---
 
 ## 🔥 **Who Am I?**
 - 🚀 **Full Stack Developer** passionate about **scalable web apps & GenAI**
-- 🎯 **3 Full-Stack Projects Per Month Challenge (March 2025 - Ongoing)**
+- 🎯 **3 Projects Per Month Challenge (April 2025 - Ongoing)**
 - ⚡ **Mastering Web Development & Gen AI**
 - 🧠 **Always building. Always learning.**  
 
@@ -25,20 +25,19 @@
 </div>
 
 ---
+---
 
-## 💎 **March 2025 Projects**
-📌 *Updated Monthly | ✅ Completed | 🚀 In Progress*  
+## 💎 **April 2025 Projects**
 
 | 🔢 | 🚀 Project Name | 🌍 Live Demo | 📂 GitHub Repo |
 |----|---------------|-------------|--------------|
-| 1️⃣ | **ScrapeSift** 🕵️‍♂️ | [🌐 Live](https://scrapesift.aryanmishra.site/) | [📂 GitHub](https://github.com/aryan55254/scrapesift) |
-| 2️⃣ | **TaskLock** | _TBA_ |  [📂 GitHub](https://github.com/aryan55254/Task_Lock) |
+| 1️⃣ | **_TBA_**|_TBA_|_TBA_|
+| 2️⃣ | **_TBA_** | _TBA_ |_TBA_|
 | 3️⃣ | **_TBA_** | _TBA_ |_TBA_|
 
-👉 *Next Update: **April 2025 Projects** Coming Soon!*
+👉 *Next Update: **MAY 2025 Projects** Coming Soon!*
 
 ---
-
 ## 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan55254&show_icons=true&theme=tokyonight" height="170"/>
@@ -62,7 +61,6 @@ const aryan = {
   challenge: "Completing 3 quality projects every month"
 };
 ```
-
 ---
 
 ## 🌐 **Find Me Here**
@@ -73,6 +71,7 @@ const aryan = {
   <a href="https://github.com/aryan55254">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://twitter.com/Slackzilla_"> <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white"/> </a> 
 </div>
 
 ---
