@@ -71,7 +71,6 @@ const aryan = {
   <a href="https://github.com/aryan55254">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Slackzilla_"> <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white"/> </a> 
 </div>
 
 ---
