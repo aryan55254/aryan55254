@@ -21,5 +21,4 @@ Links:
 - GitHub: https://github.com/aryan55254
 - Portfolio: https://aryanmishra.site
 - LinkedIn: https://www.linkedin.com/in/aryan-mishra-9830b936a/
-- Discord: stdpanic
 - X (Twitter): https://x.com/stdpanic
