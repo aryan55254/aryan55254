@@ -1,3 +1,5 @@
 Hi, I’m Aryan.
 
-Checkout My Best Projects In The Pinned Repo's Below.
+My Best Projects Are Pinned Below. 
+
+If You Are interested In hiring , checkout my resume and portfolio here : aryanmishra.site 
